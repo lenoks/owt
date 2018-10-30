@@ -1,0 +1,15 @@
+/* CSS for index_tavasz.html */
+
+body {
+	background-color: #222;
+	padding: 30px;
+}
+
+h1 {
+	color: #eee;
+}
+
+.card:hover {
+	background-color: #eee;
+}
+
